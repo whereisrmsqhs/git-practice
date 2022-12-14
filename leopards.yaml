@@ -1,13 +1,13 @@
 team: Leopards
 
-manager: Nora
+manager: Dooli
 
 coach: Lupi
 
 members:
-- Linda
-- William
-- David
-- Olivia
-- Evie
-- Dongho
+  - Linda
+  - William
+  - David
+  - Olivia
+  - Evie
+  - Dongho
